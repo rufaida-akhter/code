@@ -14,5 +14,9 @@ emptylist.insert(2, "who are you");
 print(emptylist);
 emptylist.insertAll(1, [9,6,5,1,7,444,4,7,7777,9856]);
 print(emptylist);
+emptylist.remove(85);
+print(emptylist);
+emptylist.removeAt(5);
+print(emptylist);
 
 }
